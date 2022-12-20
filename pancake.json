@@ -1,0 +1,22 @@
+{
+  "name": "PillSatoshi",
+  "version": "1.0.0",
+  "description":"App",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "keywords": [
+    "nostr"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jb55/nostr-js/issues"
+  },
+ 
+  "dependencies": {
+    "noble-secp256k1": "^1.2.14",
+    "ws": "^8.8.1"
+  }
+}
+Footer
