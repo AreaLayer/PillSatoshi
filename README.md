@@ -3,8 +3,19 @@ Social Media for Bitcoiners on the Nostr
 
 # How works?
 
-Soon details.
+The app will have follow fuctions:
+
+-Pubkey, PrivKey
+
+-Feed
+
+-Lightning Network support
+
+-Chat P2P
+
 
 # Product
+
+The product is in development
 
 Based on Nostr Protocol
