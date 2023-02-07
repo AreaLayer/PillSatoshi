@@ -17,6 +17,8 @@
   "dependencies": {
     "noble-secp256k1": "^1.2.14",
     "ws": "^8.8.1"
-  }
+  },
+  
+"nostr-js"
+ "version: "0.2.7"
 }
-Footer
