@@ -13,6 +13,8 @@ The app will have follow fuctions:
 
 -Chat P2P
 
+-NIP-57
+
 
 # Product
 
