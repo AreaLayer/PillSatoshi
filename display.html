@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pill Satoshi</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Welcome to Nostr</h1>
+    <div id="feed"></div>
+
+    <script src="nostr-api.js"></script>
+    <script>
+      const api = new NostrAPI('<YOUR_API_KEY>');
+      
+      api.getFeed().then((feed) => {
+        const feedElement = document.getElementById('feed');
+
+        feed.forEach((post) => {
+          const postElement = document.createElement('div');
+          postElement.classList.add('post');
+
+          const authorElement = document.createElement('div');
+          authorElement.classList.add('author');
+          authorElement.textContent = post.author;
+          postElement.appendChild(authorElement);
+
+          const contentElement = document.createElement('div');
+          contentElement.classList.add('content');
+          contentElement.textContent = post.content;
+          postElement.appendChild(contentElement);
+
+          feedElement.appendChild(postElement);
+        });
+      }).catch((err) => {
+        console.error(err);
+      });
+    </script>
+  </body>
+</html>
