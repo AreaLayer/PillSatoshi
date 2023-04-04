@@ -15,6 +15,8 @@ The app will have follow fuctions:
 
 -NIP-57
 
+-More NIPs will be added
+
 
 # Product
 
