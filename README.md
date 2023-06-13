@@ -1,7 +1,7 @@
 # PillSatoshi
 Social Media for Bitcoiners on the Nostr
 
-# Features
+## Features
 
 The app will have follow fuctions:
 
@@ -17,7 +17,7 @@ The app will have follow fuctions:
 
 -Backup via JSON
 
-# Roadmap
+## Roadmap
 
 - [ ] PWA
 - [ ] UI/UX
