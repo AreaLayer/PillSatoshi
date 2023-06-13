@@ -1,7 +1,7 @@
 # PillSatoshi
 Social Media for Bitcoiners on the Nostr
 
-# How works?
+# Features
 
 The app will have follow fuctions:
 
@@ -15,11 +15,15 @@ The app will have follow fuctions:
 
 -NIP-57
 
--More NIPs will be added
+-Backup via JSON
 
+# Roadmap
 
-# Product
-
-The product is in development
-
-Based on Nostr Protocol
+- [ ] PWA
+- [ ] UI/UX
+- [ ] Relays
+- [ ] Tabs, homepage
+- [ ] Zaps
+- [ ] DM
+- [ ] Release App via Android and iOs
+- [ ] Feedback user
