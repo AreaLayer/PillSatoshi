@@ -1,4 +1,4 @@
-# PillSatoshi 💊
+# PillSatoshi 💊 ⚡
 Social Media for Bitcoiners on Nostr
 
 ## Features
