@@ -19,11 +19,12 @@ The app will have follow fuctions:
 
 ## Roadmap
 
-- [ ] PWA
-- [ ] UI/UX
+- [x] PWA (WIP)
+- [x] UI/UX (WIP)
 - [ ] Relays
-- [ ] Tabs, homepage
+- [x] Tabs, homepage (WIP)
 - [ ] Zaps
 - [ ] DM
+- [ ] Chat
 - [ ] Release App via Android and iOs
 - [ ] Feedback user
