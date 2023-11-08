@@ -5,17 +5,17 @@ Social Media for Bitcoiners on Nostr
 
 The app will have follow fuctions:
 
--Pubkey, PrivKey
+- Pubkey, PrivKey
 
--Feed
+- Feed
 
--Lightning Network support
+- Lightning Network support
 
--Chat P2P
+- Chat P2P
 
--NIP-57
+- NIP-57
 
--Backup via JSON
+ -Backup via JSON
 
 ## Roadmap
 
