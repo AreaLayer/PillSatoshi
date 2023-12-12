@@ -21,7 +21,7 @@ The app will have follow fuctions:
 
 - [x] PWA (WIP)
 - [x] UI/UX (WIP)
-- [ ] Relays
+- [x] Relays (WIP)
 - [x] Tabs, homepage (WIP)
 - [ ] Zaps
 - [ ] DM
