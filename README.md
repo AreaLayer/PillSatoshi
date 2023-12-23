@@ -26,5 +26,5 @@ The app will have follow fuctions:
 - [ ] Zaps
 - [ ] DM
 - [ ] Chat
-- [ ] Release App via Android and iOs
+- [ ] Release App via Android and iOs in 2024
 - [ ] Feedback user
