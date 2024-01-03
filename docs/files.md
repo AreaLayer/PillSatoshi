@@ -10,5 +10,5 @@
 - Windows
 - Data
 - Lightning
-- Nostr
+- Nostr: Main nostr functions
   
