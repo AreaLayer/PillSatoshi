@@ -23,6 +23,7 @@ The app will have follow fuctions:
 - [x] UI/UX (WIP)
 - [x] Relays (WIP)
 - [x] Tabs, homepage (WIP)
+- [ ] UI design
 - [ ] Zaps
 - [ ] DM
 - [ ] Chat
