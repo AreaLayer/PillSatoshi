@@ -29,3 +29,4 @@ The app will have follow fuctions:
 - [ ] Chat
 - [ ] Release App via Android and iOs in 2024
 - [ ] Feedback user
+- [ ] Convert from JS to TS
